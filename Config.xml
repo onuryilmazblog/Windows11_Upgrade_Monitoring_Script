@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Configuration>
 <Option scriptPath="C:\Install\Windows11Upgrade\Scripts" />
-<Option registeryPath="HKLM:\Software\YILDIZDOMAIN\Win11_Upgrade" />
+<Option registeryPath="HKLM:\Software\Win11_Upgrade" />
 <Option LogFolderPath="C:\Install\Windows11Upgrade\Windows11-Upgrade3.log" />
 <Option UpgradeFileSize="3726254288" />
 <Option ForceUpdateDate="20220529" />
