@@ -1,6 +1,6 @@
 Version 1.0.6
 
-# Windows11_Upgrade_Monitoring_Script
+# Windows11 Upgrade Monitoring Script
 
 
 > SCCM Windows Servicing Update ile birlikte çalışmaktadır. Windows Servicing Update ile tamamen sessiz bir şekilde gönderim sağladığınız Windows 11 Update paketini EvaluationState değerlerini kontrol ederek izler ve tespit ettiği değerlere göre kullanıcıya özel hazırlanmış bildirimlerin gönderimini sağlar.
